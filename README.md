@@ -22,3 +22,8 @@ This project aims to predict an individual's creditworthiness using financial da
 - pandas, scikit-learn, matplotlib, seaborn (optional for plots)
 
 ## 📂 Structure
+CodeAlpha_CreditScoringModel/
+│
+├── credit_model.ipynb
+├── german.data-numeric
+└── README.md
